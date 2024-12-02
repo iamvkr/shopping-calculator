@@ -1,8 +1,9 @@
-# React + Vite
+# Shopping Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application to keep track of your shopping items. Just add the product rate and quantity to calculate the final price.
 
-Currently, two official plugins are available:
+Made with react js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Link
+
+- click here to visit [shopping calculator](https://iamvkr.github.io/shopping-calculator/)
