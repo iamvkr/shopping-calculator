@@ -32,7 +32,12 @@ const PrintView = () => {
 
     return (
         <div>
-            {(cart && cart.length > 0) && <button id='printBtn' className='text-sm text-center w-full border rounded m-1' onClick={handlePrint}>print to pdf</button>}
+            {(cart && cart.length > 0) && <div>
+                <button id='printBtn'
+                    className='text-sm text-center w-full px-4'
+                    onClick={handlePrint}>print to pdf</button>
+            </div>
+            }
             <h3 className='text-2xl text-center font-bold mt-2 mb-6'>Shopping Invoice</h3>
             {(cart && cart.length > 0) ? <div className="gridList text-sm">
                 {/* HEADER START */}
