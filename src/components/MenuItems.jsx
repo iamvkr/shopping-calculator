@@ -43,10 +43,10 @@ const MenuItems = ({ popoverOpened, setPopoverOpened, popoverTargetRef }) => {
 
     const handleShare = ()=>{
         Share.share({
-            dialogTitle:"Share As",
+            dialogTitle:"Share with Buddies",
             text:"Download Shopping Calculator App on Android",
             title:"Download Shopping Calculator App",
-            url:"https://beecoder.itch.io/Shopping-calculator"
+            url:"https://github.com/iamvkr/shopping-calculator/"
         })
     }
     return (
