@@ -5,7 +5,7 @@ A web application to keep track of your shopping items. Just add the product rat
 Made with react js
 
 ## Download
-Download Shopping calculator android app latest version: [Download](/apk/Shopping-calculator.apk)
+Download Shopping calculator android app latest version: [Download](https://github.com/iamvkr/shopping-calculator/raw/refs/heads/main/apk/Shopping-calculator.apk)
 
 ## Install Dependencies
 To load development server use
