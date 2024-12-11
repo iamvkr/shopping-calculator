@@ -7,7 +7,7 @@ Made with react js
 ## Download
 Download Shopping calculator android app latest version:
 
-<a href="https://github.com/iamvkr/shopping-calculator/raw/refs/heads/main/apk/Shopping-calculator.apk">
+<a href="https://github.com/iamvkr/shopping-calculator/raw/refs/heads/main/apk/Shopping-calculator.apk" target="_blank">
 <img src="./apk/get-it-on-github.png" width="120px"/>
 </a>
 
@@ -23,5 +23,7 @@ To load development server use
 npm run dev
 ```
 
-## screenshot
+## Watch Video
+<a href="https://youtu.be/gB5tcN8vVU8?si=bVEzIO2hoQIn40N9" target="_blank">
 <img src="./apk/screenshot.jpg" width="300"/>
+</a>
